@@ -1,3 +1,3 @@
-# Biblioteca Virtual Para Ceprevi
+# Biblioteca Virtual - Ceprevi
 
-Biblioteca virtual hecha para el alumnado de ceprevi.
+Biblioteca virtual para el alumnado de ceprevi.
